@@ -1,4 +1,4 @@
-# Amazon Customers Sentiment Analysis\
+# Amazon Customers Sentiment Analysis
 
 In the ever-evolving landscape of the retail industry, understanding customer sentiments and opinions is paramount to success. As a response to this need, this report outlines a self-directed project aimed at assisting a chosen retail entity in harnessing the power of text mining to extract valuable insights from product reviews. The primary objective of this project is to design and implement a robust full-stack text-mining strategy that can effectively filter existing reviews into distinct positive and negative categories, thereby facilitating the classification of new reviews into these predefined segments.
 
